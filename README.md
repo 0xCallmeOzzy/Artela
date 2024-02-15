@@ -329,7 +329,7 @@ Bu komutu çalıştırdıktan sonra, bir şifre girmeniz ve ardından onay için
 ![Ekran Resmi 2024-02-15 17 56 42](https://github.com/0xCallmeOzzy/Artela/assets/132007152/9bd8a3ca-9524-4ffc-8db3-fe0b308ce85b)
 
 
-## Adım 19: Testnet Token Alın
+## Adım 9: Testnet Token Alın
 
 Cüzdanınızı oluşturduktan sonra, çıktı cüzdan adresinizi içerecektir. Ardından, Artela testnet'e katılmak için Artela Discord Sunucusuna katılın ve **#testnet-faucet** kanalına gidin. Şu anda, musluk yalnızca EVM uyumlu cüzdanları desteklemektedir, bu nedenle aşağıdaki komutu kullanarak Artela cüzdan adresinizi EIP-55 eşdeğerine dönüştürmeniz gerekecektir. `<YOUR_ART_ADDRESS>` yerine gerçek Artela cüzdan adresinizi yazmayı unutmayın:
 
